@@ -15,6 +15,8 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
+    void UpdateProcessList();
+
 private:
     Ui::MainWindow *ui;
 };
