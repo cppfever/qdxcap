@@ -1,0 +1,3 @@
+[submodule "3dparty/LibQtScreen"]
+	path = 3dparty/LibQtScreen
+	url = https://github.com/bakwc/LibQtScreen.git
